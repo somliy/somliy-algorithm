@@ -1,10 +1,8 @@
-import java.util.Arrays;
 import java.util.HashSet;
-import java.util.List;
 import java.util.Set;
 
 
-public class Main {
+public class DetectCycle {
 
     /**
      * 题意：给出一个链表，链表包含本身数值和下一个数据的地址。需要判断出此链表存不存在环形结构
