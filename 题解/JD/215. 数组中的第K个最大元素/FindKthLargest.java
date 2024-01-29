@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class Main {
+public class FindKthLargest {
 
     private static final Random RANDOM = new Random();
 

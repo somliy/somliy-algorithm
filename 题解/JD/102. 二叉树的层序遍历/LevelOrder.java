@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Queue;
 
-public class Main {
+public class LevelOrder {
 
     /**
      * 题意：
